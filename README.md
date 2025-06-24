@@ -20,7 +20,9 @@ Getting Started
 3. Import the sample into Android Studio.
 4. Build and run the sample.
 
-![](/Users/dannycandia/Desktop/IMAGEN-1.png)
-![](/Users/dannycandia/Desktop/IMAGEN-2.png)
-![](/Users/dannycandia/Desktop/IMAGEN-3.png)
-![](/Users/dannycandia/Desktop/IMAGEN-4.png)
+## Capturas de pantalla
+
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/imagen-1.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/imagen-2.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/imagen-3.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/imagen-4.jpeg)
