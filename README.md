@@ -22,7 +22,7 @@ Getting Started
 
 ## Capturas de pantalla
 
-![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/imagen-1.jpeg)
-![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/imagen-2.jpeg)
-![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/imagen-3.jpeg)
-![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/imagen-4.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_candia_cupcake/blob/main/IMAGEN-1.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_canndia_cupcake/blob/main/IMAGEN-2.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_canndia_cupcake/blob/main/IMAGEN-3.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo_canndia_cupcake/blob/main/IMAGEN-4.jpeg)
